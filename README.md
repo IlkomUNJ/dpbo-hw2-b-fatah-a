@@ -1,8 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uAfN8jpt)
-Name: ................
+Name: Fatah Adilianyah 
 
-NIM : ................
-
+NIM : 1313624084
 # Instruction
 1. Fill in your details
 2. Clone this repo
